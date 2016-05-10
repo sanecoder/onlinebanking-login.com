@@ -1749,7 +1749,3 @@ http://onlinebanking-login.com/Bear-State-Bank-online-banking-login/
 http://onlinebanking-login.com/Beal-Bank-USA-online-banking-login/
 
 http://onlinebanking-login.com/Bear-State-Bank-online-banking-login/
-
-                    <changefreq>weekly</changefreq>
-                    <priority>1.0</priority>
-                     </url>
